@@ -10,6 +10,7 @@ body {
   height: 100%;
   width: 100%;
   background-color: #000;
+  overflow-y: hidden;
 }
 span {
   font-weight: bold;
@@ -43,6 +44,7 @@ span {
   border: 0px;
   padding: 0px;
   border-bottom: 1px solid #ccc;
+  resize: none;
 }
 #editor textarea::placeholder {
   color: #0f0;

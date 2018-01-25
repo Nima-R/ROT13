@@ -1,5 +1,8 @@
+
 [![Build Status][build-badge]][build]
+
 [![Code Coverage][coverage-badge]][coverage]
+
 [![version][version-badge]][package]
 [![downloads][downloads-badge]][npmtrends]
 [![MIT License][license-badge]][LICENSE]
